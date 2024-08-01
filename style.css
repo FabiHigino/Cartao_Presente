@@ -11,7 +11,7 @@ header{
 
 #home-header, #carta-header, #nossasfotos-header{
     display: flex;
-    margin: 15px;
+    margin: 16px;
 }
 
 h2{
